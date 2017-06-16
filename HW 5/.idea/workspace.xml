@@ -19,8 +19,8 @@
       <file leaf-file-name="Note.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Note.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4914">
-              <caret line="245" column="41" lean-forward="false" selection-start-line="245" selection-start-column="41" selection-end-line="245" selection-end-column="41" />
+            <state relative-caret-position="2499">
+              <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,10 +28,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MusicCreatorModelTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MusicCreatorModelTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/MusicCreatorModelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="105">
               <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NoteTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NoteTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/NoteTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1176">
+            <state relative-caret-position="21">
               <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
               <folding />
             </state>
@@ -119,19 +119,20 @@
         <option value="$PROJECT_DIR$/src/Beat.java" />
         <option value="$PROJECT_DIR$/test/ShitTesting.java" />
         <option value="$PROJECT_DIR$/test/MusicCreatorTest.java" />
-        <option value="$PROJECT_DIR$/src/Note.java" />
         <option value="$PROJECT_DIR$/src/PitchNames.java" />
         <option value="$PROJECT_DIR$/test/NoteTests.java" />
         <option value="$PROJECT_DIR$/src/MusicCreatorOperations.java" />
         <option value="$PROJECT_DIR$/src/MusicCreatorModel.java" />
         <option value="$PROJECT_DIR$/test/MusicCreatorModelTest.java" />
         <option value="$PROJECT_DIR$/test/MainTester.java" />
+        <option value="$PROJECT_DIR$/src/Note.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="width" value="1932" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
@@ -149,7 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,13 +193,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CS 3500/CS3500_HW/HW 6" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MusicCreatorModelTest">
+  <component name="RunManager" selected="JUnit.NoteTests">
     <configuration default="false" name="NoteTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="HW 5" />
@@ -497,8 +498,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MusicCreatorModelTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NoteTests" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NoteTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MusicCreatorModelTest" />
         <item index="2" class="java.lang.String" itemvalue="Application.ShitTesting" />
         <item index="3" class="java.lang.String" itemvalue="Application.MusicCreatorTest" />
       </list>
@@ -521,12 +522,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MusicCreatorModelTest - 2017.06.09 at 17h 50m 40s.xml">
-      <configuration name="MusicCreatorModelTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MusicCreatorModelTest - 2017.06.09 at 17h 51m 44s.xml">
-      <configuration name="MusicCreatorModelTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MusicCreatorModelTest - 2017.06.09 at 17h 52m 04s.xml">
       <configuration name="MusicCreatorModelTest" configurationId="JUnit" />
     </history-entry>
@@ -551,9 +546,16 @@
     <history-entry file="MusicCreatorModelTest - 2017.06.09 at 20h 57m 52s.xml">
       <configuration name="MusicCreatorModelTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MusicCreatorModelTest - 2017.06.15 at 05h 49m 37s.xml">
+      <configuration name="MusicCreatorModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NoteTests - 2017.06.15 at 05h 50m 03s.xml">
+      <configuration name="NoteTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1932" height="1048" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -564,12 +566,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23819979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2349067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16091955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -906,24 +908,7 @@
     <entry file="file://$PROJECT_DIR$/src/Beat.java" />
     <entry file="file://$PROJECT_DIR$/test/ShitTesting.java" />
     <entry file="file://$PROJECT_DIR$/test/MusicCreatorTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/NoteTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MusicCreatorModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2331">
-          <caret line="112" column="40" lean-forward="false" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MainTester.java" />
     <entry file="file://$PROJECT_DIR$/src/MusicCreatorOperations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -934,10 +919,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Note.java">
+    <entry file="file://$PROJECT_DIR$/src/MusicCreatorModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4914">
-          <caret line="245" column="41" lean-forward="false" selection-start-line="245" selection-start-column="41" selection-end-line="245" selection-end-column="41" />
+        <state relative-caret-position="2331">
+          <caret line="112" column="40" lean-forward="false" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -955,9 +940,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/MusicCreatorModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="105">
           <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -965,6 +960,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/MainTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/NoteTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

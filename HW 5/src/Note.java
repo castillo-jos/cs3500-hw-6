@@ -108,7 +108,7 @@ public class Note {
     //set object's PitchName enum value.
     setPitchName(pitch);
     //noteID calculated from octave and PitchName ordinal.
-    noteID = 12 * (octave - 1) + getPitchName().ordinal();
+    noteID = 12 * (octave) + getPitchName().ordinal();
   }
 
   /**
@@ -120,12 +120,12 @@ public class Note {
    */
   public Note(int noteID) throws IllegalArgumentException {
     //checks that passed parameter is not less than zero.
-    if (noteID < 0) {
+    if (noteID < 12) {
       throw new IllegalArgumentException();
     }
 
     //derives octave and pitch from noteID.
-    int octave = (noteID / 12) + 1;
+    int octave = (noteID / 12);
     String pitch = PitchNames.values()[noteID % 12].toString();
 
     //Sets appropriate values.
